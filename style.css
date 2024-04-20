@@ -1,0 +1,152 @@
+img {
+position: absolute;
+width: 90px;
+left: 350px;
+top: 1px;
+}
+
+.square {
+    width: 300px;
+    height: 150px;
+    background-color: rgb(0, 255, 0);
+    position: absolute;
+    border: 0px solid rgb(0, 255, 0);
+
+}
+html {
+    background-color:#5D5FEF;
+    font-family: 'Courier New', Courier, monospace;
+}
+.square1 {
+    width: 300px;
+    height: 100px;
+    background-color: #A2FF9A;
+    position: absolute;
+    border: 0px solid #A2FF9A;
+    left: 500px;
+    top: 30px;
+        display: flex;
+    justify-content: space-around;
+}
+.port {
+    left: 10px;
+}
+header {
+    background-color: #61FF00;
+    height: 200px;
+    
+    
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+nav a {
+    text-decoration: none;
+    color: #0003FF;
+    font-size: 20px;
+}
+.square2 {
+    width: 300px;
+    height: 100px;
+   
+    position: absolute;
+    background-color: #A2FF9A;
+
+}
+.square3 {
+      width: 300px;
+    height: 150px;
+    background-color: rgb(0, 255, 0);
+    position: absolute;
+    border: 0px solid rgb(0, 255, 0);
+    left: 450px;
+    
+}
+.square4 {
+    display: flex;
+    justify-content: space-around;
+    width: 999px;
+    height: 50px;
+    background-color: rgb(0, 255, 0);
+    position: absolute;
+    border: 0px solid rgb(0, 255, 0);
+    bottom: 50px;
+}
+.portfolio {
+    position: absolute;
+    bottom: 100px;
+    background-color: #5D5FEF
+}
+.obo {
+    position: absolute;
+    top: 220px;
+    color: #ffffff;
+      right: 1150px;
+      background-color: #5D5FEF
+}
+.port {
+    position: relative;
+    top: 220px;
+    background-color: #5D5FEF
+}
+.square5 {
+       width: 200px;
+    height: 50px;
+    background-color: rgb(55, 0, 255);
+    position: relative;
+    border: 0px solid rgb(255, 255, 255);
+    top: 250px;
+
+    
+
+}
+.square6 {
+       width: 200px;
+    height: 50px;
+    background-color: rgb(255, 0, 221);
+    position: relative;
+    border: 0px solid rgb(255, 255, 255);
+    top: 200px;
+    left: 300px;
+}
+.square7 {
+       width: 200px;
+    height: 50px;
+    background-color: rgb(0, 234, 255);
+    position: relative;
+    border: 0px solid rgb(0, 217, 255);
+    top: 150px;
+    left: 600px;
+}
+.square8 {
+       width: 200px;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    border: 0px solid rgb(0, 0, 0);
+    top: 200px;
+
+}
+.square9 {
+ 
+       width: 200px;
+    height: 50px;
+    background-color: rgb(255, 0, 0);
+    position: relative;
+    border: 0px solid rgb(255, 0, 0);
+    top: 150px;
+    left: 300px;
+}
+.square10 {
+       width: 200px;
+    height: 50px;
+    background-color: rgb(9, 255, 0);
+    position: relative;
+    border: 0px solid rgb(0, 255, 4);
+    top: 100px;
+    left: 600px;
+}
+div {
+    background-color: #5D5FEF ;
+}
